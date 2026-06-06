@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
-- 😄 Pronouns: ...-->
+- 😄 Pronouns: 
 - ⚡ Fun fact: ...  
 
 
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![coded-circuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=coded-circuit&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/coded-circuit)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coded-circuit&layout=compact&theme=transparent&hide_border=true)](https://github.com/coded-circuit)
+...-->

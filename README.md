@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coded-circuit&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="coded-circuit's GitHub Stats" />
-</div>
+[![coded-circuit's GitHub stats](https://github-readme-stats.vercel.app/api?username=coded-circuit&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/coded-circuit)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coded-circuit&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coded-circuit&layout=compact&theme=transparent&hide_border=true)](https://github.com/coded-circuit)
